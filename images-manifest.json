@@ -1,0 +1,30 @@
+{
+  "generated_at": "2025-07-26T19:51:12.141Z",
+  "total_images": 3,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/BILA-LOGO-1024x609.png",
+      "file_path": "public/images/logo-vseprostavby-white.png",
+      "file_name": "logo-vseprostavby-white.png",
+      "description": "White version of the VŠE PRO STAVBY.CZ logo, likely intended for use on darker backgrounds or in the header.",
+      "suggested_usage": "Use as the primary logo in the website header, footer, or any section requiring a white-on-dark branding element.",
+      "size_bytes": 116158
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1-1024x576.jpg",
+      "file_path": "public/images/gallery-tanvald-building.jpg",
+      "file_name": "gallery-tanvald-building.jpg",
+      "description": "An exterior shot of a building in Tanvald, likely a completed project showcasing the company's construction work.",
+      "suggested_usage": "Use in a project gallery, portfolio section, or as a supporting image on a 'References' or 'Completed Projects' page to demonstrate past work.",
+      "size_bytes": 167094
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/gallery-family-house-renovation.jpg",
+      "file_name": "gallery-family-house-renovation.jpg",
+      "description": "An image related to 'RDPO' (likely a family house renovation or construction project, given the alt text and page context), showcasing a specific aspect of construction or renovation.",
+      "suggested_usage": "Use in a project gallery, a 'Services' page specifically for residential construction/renovation, or as a featured image for a project case study related to 'RDPO'.",
+      "size_bytes": 558411
+    }
+  ]
+}
